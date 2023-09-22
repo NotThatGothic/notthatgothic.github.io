@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+td,th {
+	padding: 0.25rem
+}
+p {
+	padding-bottom: 0.75rem;
+}
+ul.list-disc li {
+	padding-bottom: 0.25rem;
+}
